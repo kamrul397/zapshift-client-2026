@@ -27,7 +27,7 @@ const Coverage = () => {
     }
   };
   return (
-    <div className="m-20 border p-10 w-full h-[500px] mx-auto">
+    <div className="m-20  p-10 w-full h-[500px] mx-auto">
       <h2 className="text-5xl">We are available in 64 districts</h2>
       {/* search bar */}
       <div>
